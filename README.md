@@ -7,7 +7,7 @@ and semantically correct sentences. Deep learning-based techniques are capable o
 
 # Dataset
 
-The dataset used is flickr8 with more than 8000 images. 
+The dataset used is flickr8k with more than 8000 images. 
 
 # Procedure
 
